@@ -15,7 +15,7 @@ import {
 } from "@/lib/stream"
 
 const API_BASE_URL =
-  "http://localhost:8000"
+  "https://legal-ai-backend-7tbs.onrender.com"
 
 export function useChat() {
 
